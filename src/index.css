@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.calendar-day {
+  transition: all 0.2s ease;
+}
+.calendar-day:hover {
+  background-color: #f9fafb; /* Tailwind gray-50 */
+}

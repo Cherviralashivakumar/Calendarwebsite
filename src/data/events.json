@@ -1,0 +1,36 @@
+[
+  {
+    "date": "2025-11-04",
+    "startTime": "00:00",
+    "endTime": "01:30",
+    "color": "#f6be23",
+    "title": "Daily Standup"
+  },
+  {
+    "date": "2025-11-04",
+    "startTime": "04:30",
+    "endTime": "07:30",
+    "color": "#f6501e",
+    "title": "Weekly Catchup"
+  },
+  {
+    "date": "2025-11-05",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "color": "#f6be23",
+    "title": "Karthika pournami"
+  },
+  {
+    "date": "2025-11-06",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "color": "#1ecbe1",
+    "title": "Client Meeting"
+  }, {
+    "date": "2025-11-14",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "color": "#1ecbe1",
+    "title": "Children's Day"
+  }
+]
